@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Curso coder 43635
-          maximiliano catani
         </a>
       </header>
     </div>
